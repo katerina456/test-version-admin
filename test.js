@@ -1,13 +1,3 @@
-//let btns = document.querySelectorAll('button')
-
-//btns.forEach(btn => {
-//    btn.addEventListener('click', () => {
-//      console.log('hello')
-//  })
-//})
-
-
-
 let btnGetAll = document.querySelector('.button-getAll')
 
 btnGetAll.addEventListener('click', () => {
